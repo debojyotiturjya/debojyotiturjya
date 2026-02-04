@@ -83,7 +83,9 @@ continuously pushing my limits as a programmer.
 ##  Connect With Me
 
 -  **GitHub:** https://github.com/debojyotiturjya 
--  **Codeforces:** https://codeforces.com/profile/mhut_chandai  
+-  **Codeforces:** https://codeforces.com/profile/mhut_chandai
+-  **Facebook:** https://www.facebook.com/debojyoti.turjya
+-  **X:** https://x.com/alxndsuprtrmp
 
 ---
 
