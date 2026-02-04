@@ -54,26 +54,20 @@ continuously pushing my limits as a programmer.
 ## 📊 GitHub Activity
 
 *Most Used Languages*
+<p align="center">
+  ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debojyotiturjya&theme=github_dark)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debojyotiturjya&theme=github_dark)
+  ![Language Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debojyotiturjya&theme=github_dark)
+  
+</p>
 
-![Language Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debojyotiturjya&theme=github_dark)
-
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debojyotiturjya&theme=github_dark)
-
-
----
-
-##  GitHub Streak
+*GitHub Streak*
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debojyotiturjya&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-##  Contribution Graph
+* Contribution Graph*
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debojyotiturjya&theme=tokyonight"/>
