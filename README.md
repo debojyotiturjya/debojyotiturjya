@@ -54,12 +54,15 @@ continuously pushing my limits as a programmer.
 ## 📊 GitHub Activity
 
 *Most Used Languages*
-<p align="center">
-  ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debojyotiturjya&theme=github_dark)
 
-  ![Language Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debojyotiturjya&theme=github_dark)
-  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debojyotiturjya&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debojyotiturjya&theme=github_dark" />
+</p>
+
 
 *GitHub Streak*
 
