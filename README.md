@@ -53,7 +53,12 @@ continuously pushing my limits as a programmer.
 
 ## 📊 GitHub Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=debojyotiturjya&theme=github-dark)
+*Most Used Languages*
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debojyotiturjya&theme=github_dark)
+
+![Language Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debojyotiturjya&theme=github_dark)
+
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debojyotiturjya&theme=github_dark)
 
