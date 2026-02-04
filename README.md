@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm <span style="color:#22d3ee;">Debojyoti Turjya</span>
 </h1>
-<h3 align="center">CSE Undergraduate | Competitive Programmer | DSA Enthusiast</h3>
+<h3 align="center">CSE Undergraduate | Competitive Programmer</h3>
 
 
 <p align="center">
