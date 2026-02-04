@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Debojyoti Turjya</h1>
+<h1 align="center">Hi, I'm Debojyoti Turjya</h1>
 <h3 align="center">CSE Undergraduate | Competitive Programmer | DSA Enthusiast</h3>
 
 <p align="center">
-  🎓 Studying Computer Science & Engineering at <b>Leading University</b><br>
-  💻 Competitive Programming practitioner for ~1 year<br>
-  🚀 Passionate about problem solving & algorithms
+   Studying Computer Science & Engineering at <b>Leading University</b><br>
+   Competitive Programming practitioner for ~1 year<br>
+   Passionate about problem solving & algorithms
 </p>
 
 ---
@@ -22,14 +22,14 @@ continuously pushing my limits as a programmer.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 - **C**
 - **C++**
 - **Python** *(basic)*
 
-### 🧠 Core Knowledge
+###  Core Knowledge
 - Data Structures & Algorithms  
 - Time & Space Complexity  
 - Problem Solving  
@@ -37,7 +37,7 @@ continuously pushing my limits as a programmer.
 
 ---
 
-## 🏁 Competitive Programming Journey
+##  Competitive Programming Journey
 
 - Active on **Codeforces**
 - Regular contest participation
@@ -57,7 +57,7 @@ continuously pushing my limits as a programmer.
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debojyotiturjya&theme=tokyonight&hide_border=true"/>
@@ -65,7 +65,7 @@ continuously pushing my limits as a programmer.
 
 ---
 
-## 🧩 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debojyotiturjya&theme=tokyonight"/>
@@ -73,17 +73,17 @@ continuously pushing my limits as a programmer.
 
 ---
 
-## 🌱 Currently Improving
+##  Currently Improving
 - Advanced DSA techniques  
 - Efficient STL usage in C++  
 - Cleaner and faster CP implementations  
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💻 **GitHub:** https://github.com/debojyotiturjya 
-- 🏁 **Codeforces:** https://codeforces.com/profile/mhut_chandai  
+-  **GitHub:** https://github.com/debojyotiturjya 
+-  **Codeforces:** https://codeforces.com/profile/mhut_chandai  
 
 ---
 
