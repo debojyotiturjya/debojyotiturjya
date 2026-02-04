@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Debojyoti Turjya</h1>
+<h1 align="center">Hi, I'm <span style="color:#22d3ee;">Debojyoti Turjya</span>
+
 <h3 align="center">CSE Undergraduate | Competitive Programmer | DSA Enthusiast</h3>
 
 <p align="center">
