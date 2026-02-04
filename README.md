@@ -62,16 +62,6 @@ continuously pushing my limits as a programmer.
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debojyotiturjya&theme=github_dark)
 
-## 📊 GitHub Overview
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debojyotiturjya&theme=github_dark)
-
-## 🧠 Most Used Languages
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debojyotiturjya&theme=github_dark)
-
-
-
 
 ---
 
