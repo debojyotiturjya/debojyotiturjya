@@ -95,5 +95,5 @@ continuously pushing my limits as a programmer.
 ---
 
 <p align="center">
-  <i>“Consistency beats talent when talent doesn’t practice.”</i>
+  <i>“Hard work beats luck”</i>
 </p>
