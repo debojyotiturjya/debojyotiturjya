@@ -53,7 +53,7 @@ continuously pushing my limits as a programmer.
 
 ## 📊 GitHub Activity
 
-*Most Used Languages*
+**Most Used Languages**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debojyotiturjya&theme=github_dark" />
@@ -64,13 +64,13 @@ continuously pushing my limits as a programmer.
 </p>
 
 
-*GitHub Streak*
+**GitHub Streak**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debojyotiturjya&theme=tokyonight&hide_border=true"/>
 </p>
 
-* Contribution Graph*
+**Contribution Graph**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debojyotiturjya&theme=tokyonight"/>
