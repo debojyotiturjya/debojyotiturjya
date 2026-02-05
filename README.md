@@ -6,7 +6,7 @@
 
 <p align="center">
    Studying Computer Science & Engineering at <b>Leading University</b><br>
-   Competitive Programming practitioner for ~1 year<br>
+   Competitive Programming practitionerr<br>
    Passionate about problem solving & algorithms
 </p>
 
