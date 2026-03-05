@@ -49,6 +49,8 @@ continuously pushing my limits as a programmer.
 
 🔗 **Codeforces:** https://codeforces.com/profile/mhut_chandai
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?mhut_chandai=redheadphone)
+
 ---
 
 ## 📊 GitHub Activity
