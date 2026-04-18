@@ -19,7 +19,7 @@ I am a **Computer Science and Engineering undergraduate** with a strong passion 
 
 I have been actively solving problems for almost a year, mainly on **Codeforces**,  
 focusing on improving my logical thinking, efficiency, and clean implementation.
-![](https://raw.githubusercontent.com/mhut_chandai/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/debojyotiturjya/cf-stats/main/output/max_rating.svg)
 
 
 I enjoy breaking down complex problems, experimenting with optimizations, and  
