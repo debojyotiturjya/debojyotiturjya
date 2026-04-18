@@ -9,6 +9,8 @@
    Competitive Programming practitionerr<br>
    Passionate about problem solving & algorithms
 </p>
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
 
 ---
 
@@ -48,8 +50,7 @@ continuously pushing my limits as a programmer.
 - Strong interest in algorithmic challenges
 
 🔗 **Codeforces:** https://codeforces.com/profile/mhut_chandai 
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+
 
 ![](https://raw.githubusercontent.com/debojyotiturjya/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
